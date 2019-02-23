@@ -496,6 +496,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Asana](https://asana.com/) - Project management good for distributed teams.
   1. [Harvest](https://www.getharvest.com/) - Time tracking
   1. [Hitask](https://hitask.com/) - Easy task and project management for teams.
+  1. [pimentaPRO](https://pimenta.pro) - Professional predictive analysis tool for monitoring from agile projects.
   1. [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source).
   1. [Outplanr](https://www.outplanr.com/) - Project and task management tool.
   1. [Taskade](https://taskade.com/) - Real-time collaborative notes, checklists and outlines for teams.
@@ -523,6 +524,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Established Remote](https://github.com/yanirs/established-remote) - A list of established remote companies
   1. [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) - List of hacker spaces.
   1. [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
+  1. [pimentaGROUP](https://pimentagroup.de/) - Remote work Company based in Germany. Offers several growth possibilities for developers.
   1. [NODESK](https://nodesk.co/) - 3000+ articles, remote jobs, resources and tools for digital nomads and remote workers.
   1. [Nomad List](https://nomadlist.io/) - Compare cost and quality of living in different cities.
   1. [Regus USA](http://www.regus.com/) - Executive suites, virtual offices & conference room space.
